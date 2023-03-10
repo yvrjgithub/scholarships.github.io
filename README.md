@@ -1,1 +1,1 @@
-# scholarships.giyhub.io
+# scholarships.github.io
